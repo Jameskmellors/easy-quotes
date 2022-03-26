@@ -1,6 +1,6 @@
 # What is easy-quotes?
 
-easy-quotes is a simple dependency-less quotes manager that can get you quotes submitted by many people with varying options for how much control you want to have over the formatting and type.
+easy-quotes is a simple dependency-less quotes manager with typescript support that can get you quotes submitted by many people with varying options for how much control you want to have over the formatting and type.
 
 # Installation
 
