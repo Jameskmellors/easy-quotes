@@ -22,5 +22,5 @@ easy-quotes have multiple simple options to change what type of quote you want a
 * *length* - _number_ (Defaults to 20)
 * *includesNSFW* - _boolean_ (Defaults to false)
 * *forProffessionalUse* - _boolean_ (Defaults to false)
-* *authorNameFormat* - _'AllLong' | 'AllShort' | 'FirstLong MiddleShort LastLong' | 'FirstShort MiddleShort LastLong'+ (Defaults to 'AllLong')
+* *authorNameFormat* - _'AllLong' | 'AllShort' | 'FirstLong MiddleShort LastLong' | 'FirstShort MiddleShort LastLong'_ (Defaults to 'AllLong')
 
