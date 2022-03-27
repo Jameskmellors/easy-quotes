@@ -3,7 +3,7 @@ import { quoteObjectArray } from './quotes';
 import getRandomNumber from './functions/getRandomNumber';
 import getShortenedName from './functions/getShortenedName';
 
-const getQuote = (
+export const getQuote = (
     options: Options = {
         // default values
         length: 'medium',
@@ -44,5 +44,3 @@ const getQuote = (
 
     return quoteFormatted;
 };
-
-module.exports = getQuote;
